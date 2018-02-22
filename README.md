@@ -34,7 +34,8 @@ The module allows the users to get logged into the system and view posts or repo
 3.	Can view the previously posted comments. And post a comment on each report or topic.
 # Software Specification
                      FRONT END			:    	JSP, JDBC, JavaScript, AJAX
-BACK END			:     	MySQL 	                                 OPERATING SYSTEM	:   	WINDOWS XP, 7,8,10
+                     BACK END 			:     	MySQL 	                                 
+                   OPERATING SYSTEM	:   	WINDOWS XP, 7,8,10
 
 # Tools To Be Used
 
