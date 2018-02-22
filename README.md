@@ -33,9 +33,9 @@ The module allows the users to get logged into the system and view posts or repo
 2.	Can search the report of each police station.
 3.	Can view the previously posted comments. And post a comment on each report or topic.
 # Software Specification
-                     FRONT END			:    	JSP, JDBC, JavaScript, AJAX
+                     FRONT END			:     	JSP, JDBC, JavaScript, AJAX
                      BACK END 			:     	MySQL 	                                 
-                   OPERATING SYSTEM	:   	WINDOWS XP, 7,8,10
+                   OPERATING SYSTEM	:     	WINDOWS XP, 7,8,10
 
 # Tools To Be Used
 
