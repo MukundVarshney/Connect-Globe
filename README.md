@@ -32,3 +32,12 @@ The module allows the users to get logged into the system and view posts or repo
 1.	Can view all reports posted by others after getting logged in!.
 2.	Can search the report of each police station.
 3.	Can view the previously posted comments. And post a comment on each report or topic.
+# Software Specification
+                     FRONT END			:    	JSP, JDBC, JavaScript, AJAX
+BACK END			:     	MySQL 	                                 OPERATING SYSTEM	:   	WINDOWS XP, 7,8,10
+
+# Tools To Be Used
+
+1.	Use any IDE to develop the project. It may be My eclipse / Eclipse / NetBeans.
+2.	MySQL  for the database.
+3.	Server: Apache Tomcat / JBoss / Glassfish / Web logic/Web sphere.
