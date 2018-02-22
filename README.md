@@ -35,7 +35,7 @@ The module allows the users to get logged into the system and view posts or repo
 # Software Specification
                      FRONT END			:     	JSP, JDBC, JavaScript, AJAX
                      BACK END 			:     	MySQL 	                                 
-                     OPERATING SYSTEM	        :  WINDOWS XP, 7,8,10
+                     OPERATING SYSTEM	        :    WINDOWS XP, 7,8,10
 
 # Tools To Be Used
 
