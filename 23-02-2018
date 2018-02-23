@@ -1,7 +1,8 @@
-# Work done on 23-02-2018
+Work done on 23-02-2018
 I am working on registered user module. I am trying to reduce the complexity of loding page and also working on connectivity with database.
 The code of registered user in which i am working is given below:-
-## Registered User Code
+
+
 <%@ page language="java" import="java.util.*" pageEncoding="ISO-8859-1"%>
 
 
